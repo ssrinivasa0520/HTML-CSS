@@ -1,0 +1,76 @@
+body:hover {
+     background: url("https://c4.wallpaperflare.com/wallpaper/1/757/189/japan-mount-fuji-clean-sky-landscape-wallpaper-preview.jpg");
+     background-size: cover;
+     font-size: 5mm;
+     text-transform: uppercase;
+     text-align: justify-all;
+ }
+.Header{
+	color: #aa6622;
+	text-decoration: overline;
+}
+.LowdRaj{
+	color: rgba(126, 076, 0122, 0.76);
+}
+#Lamb {
+	color: rebeccapurple;
+}
+h2:hover{
+	color: royalblue;
+}
+#magic {
+	color: beige;
+}
+li:nth-child(2) {
+	color: magenta;
+}
+li:hover{
+	color: blueviolet;
+}
+#Naruto:link {
+color: oldlace;
+font-size: 3em;
+}
+#Naruto:visited {
+color: lavender;
+}
+h1 + p {
+	color: honeydew;
+}
+textarea ~ button {
+	color: papayawhip;
+}
+ul > li {
+	color: limegreen;
+}
+ul li {
+	color: ivory;
+	background: radial-gradient(indianred 5%,darkkhaki 7%,royalblue 88%);
+}
+
+/*img[src*="C:/Users/zoope/OneDrive/Desktop/STUDENT/"] 
+{
+border: 10px solid black;
+}*/
+h1[class~=gemini-Header] {
+	background: linear-gradient(to bottom left, gray, chocolate, burlywood);
+}
+#background-test {
+	height: 200px;
+	width: 200px;
+}
+.drinkwell {
+	height: 60pc;
+	width: 70%;
+}
+#Naruto {
+	text-decoration: none;
+	font-weight: 355;
+}
+.just-paras {
+	text-decoration: line-through;
+	font-style: italic;
+}
+.jamesvon {
+	font-style: normal;
+}
